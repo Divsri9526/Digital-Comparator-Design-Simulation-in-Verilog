@@ -31,5 +31,3 @@ This project implements and simulates 1-bit and 4-bit digital comparators using 
 1. Open the files in any Verilog simulation tool (**ModelSim, Icarus Verilog, EDA Playground**).
 2. Compile and run the testbench.
 3. Observe results in the console or waveform viewer.
-
-Example run for 1-bit comparator:
